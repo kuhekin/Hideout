@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+If you're Torn player, you can contact me with this link [Hyperreal](https://www.torn.com/profiles.php?XID=2042404)
