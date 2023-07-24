@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+I'm writing random things on here, currently interest in Torn City so expect post about it.
